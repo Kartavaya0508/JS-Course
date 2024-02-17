@@ -24,3 +24,4 @@ console.log(a)
 
 let c = 5
 assignment += 5 // same as assignment = assignment + 5
+assignment += 5 // same as assignment = assignment + 5
