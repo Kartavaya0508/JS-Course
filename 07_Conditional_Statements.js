@@ -32,4 +32,4 @@ else{
 }
 
 // Turnary operator
-console.log("You can", (a<18? "not drive"; "drive"))
+console.log("You can", (a<18? "not drive": "drive"))
