@@ -1,4 +1,4 @@
-let name = "Harry"
+let name = "Harry"        // Strings are immutable i.e. Original value of strings remains same
 console.log(name.length)
 
 console.log(name.toUpperCase())
@@ -20,7 +20,7 @@ let namee = "         Janvi          "
 let name4 = namee.trim()
 console.log(name4)
 
-let friend = "Urvashi"
+let friend = "Urvashi" + " Vanshika"
 console.log(friend[0])
 console.log(friend[1])
 console.log(friend[2])
@@ -28,6 +28,7 @@ console.log(friend[3])
 console.log(friend[4])
 console.log(friend[5])
 console.log(friend[6])
+console.log(friend)
 
 let mine = "Kussh"
 for (let v=0; v<5; v++) {
