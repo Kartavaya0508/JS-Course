@@ -15,6 +15,7 @@ let name1 = "Hitesh"
 let name2 = " Gourav"
 let name3 = name1.concat(" is a friend of ", name2)
 console.log(name3)
+console.log(name1.slice(2, 4))
 
 let namee = "         Janvi          "
 let name4 = namee.trim()
